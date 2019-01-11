@@ -1,2 +1,2 @@
 all:
-	g++ main.cpp Triangle.cpp Square.cpp Octagon.cpp -std=c++14 -o Lab1
+	g++ main.cpp BinaryTree.cpp BinaryTreeItem.cpp Square.cpp Triangle.cpp Octagon.cpp -o lab -std=c++14 -g
